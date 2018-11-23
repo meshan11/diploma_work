@@ -1,7 +1,7 @@
 # diploma_work
 squat mechanics verification with opencv library
 
-# how to install openCV extra modules with sources
+# how to build openCV extra modules with sources
 https://www.youtube.com/watch?v=fIpTks0G2m0
 
 # setup your visual studio

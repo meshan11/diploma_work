@@ -3,7 +3,8 @@ class Joint
 {
 public:
 	
-	int prevXpos, prevYpos;
+	int prevXpos = 0, prevYpos = 0;
+	int identifier;
 	
 	Joint();
 	~Joint();
